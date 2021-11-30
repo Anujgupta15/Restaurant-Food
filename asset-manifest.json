@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Food/static/css/main.9b20432a.chunk.css",
+    "main.js": "/Restaurant-Food/static/js/main.370b24f1.chunk.js",
+    "main.js.map": "/Restaurant-Food/static/js/main.370b24f1.chunk.js.map",
+    "runtime-main.js": "/Restaurant-Food/static/js/runtime-main.9f426d14.js",
+    "runtime-main.js.map": "/Restaurant-Food/static/js/runtime-main.9f426d14.js.map",
+    "static/js/2.cb08a768.chunk.js": "/Restaurant-Food/static/js/2.cb08a768.chunk.js",
+    "static/js/2.cb08a768.chunk.js.map": "/Restaurant-Food/static/js/2.cb08a768.chunk.js.map",
+    "index.html": "/Restaurant-Food/index.html",
+    "static/css/main.9b20432a.chunk.css.map": "/Restaurant-Food/static/css/main.9b20432a.chunk.css.map",
+    "static/js/2.cb08a768.chunk.js.LICENSE.txt": "/Restaurant-Food/static/js/2.cb08a768.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f426d14.js",
+    "static/js/2.cb08a768.chunk.js",
+    "static/css/main.9b20432a.chunk.css",
+    "static/js/main.370b24f1.chunk.js"
+  ]
+}
